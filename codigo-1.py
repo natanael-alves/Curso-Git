@@ -1,5 +1,5 @@
 evento_convite = True
-nome_na_lista = False
+nome_na_lista = True
 
 vai_entrar_evento = evento_convite or nome_na_lista
 
