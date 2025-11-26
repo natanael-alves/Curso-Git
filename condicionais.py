@@ -13,4 +13,4 @@ if grana >= 20:
 elif grana >= 10:
     print("Você tomara somente o café.")
 else:
-    print("Nem entre na cafeteria, vá sim bora...")
+    print("Nem entre na cafeteria, vá sim bora..")
